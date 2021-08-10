@@ -1,2 +1,2 @@
-# iffe
+# index.js
 Created with CodeSandbox
